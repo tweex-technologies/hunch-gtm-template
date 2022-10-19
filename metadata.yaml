@@ -1,0 +1,6 @@
+
+homepage: "https://www.gotahunch.io"
+documentation: "https://www.gotahunch.io"
+versions:
+  - sha: 07caf379d0345f53ab66212a991814dc7a3d94b0
+    changeNotes: Initial release
